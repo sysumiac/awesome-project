@@ -1,1 +1,1 @@
-console.log('This would be the main JS file.');
+alert('What the hell are you talking about?')
